@@ -31,8 +31,8 @@ To address this, we use **Boruta**, a robust feature selection algorithm.
 
 ### 📊 Interpreting the Boruta Plot
 
-- ✅ **Green Boxes**: Confirmed important features (e.g., `WIS`, `HE`, `AFB`, `DC`) — **Keep these**
-- ❌ **Red Boxes**: Rejected features (e.g., `ANCC`) — **Remove these**
+- ✅ **Green Boxes**: Confirmed important features — **Keep these**
+- ❌ **Red Boxes**: Rejected features — **Remove these**
 - 🔵 **Blue Boxes**: Shadow features — used for benchmarking only
 
 ---
