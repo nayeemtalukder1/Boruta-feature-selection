@@ -1,6 +1,8 @@
 # Boruta-feature-selection
 ## 🔍 Feature Selection with Boruta
 
+![Boruta Feature Importance](boruta%20feature%20important_nayeem_6.png)
+
 When building predictive models like **Neural Networks**, **Random Forest**, or **Logistic Regression**, having **too many features** (e.g., 60–70 variables) can:
 
 - Increase **training time**
@@ -66,5 +68,6 @@ plot(boruta_result, las = 2, cex.axis = 0.7)
 > Replace `target_variable` with the actual column you're trying to predict.
 
 ---
+
 
 
